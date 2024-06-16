@@ -41,7 +41,8 @@ input
     height: 28px;
      margin-bottom: 5px;
      box-shadow: 1px 1px 3px black;
-     border:none;
+     border:0;
+      outline:0;
      background-color: transparent;
      padding: 5px;
      color: rgb(168, 177, 181);
